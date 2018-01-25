@@ -1,9 +1,7 @@
+Woody Guthrie -  This Land is Your Land
 
+[Chorus]:
 
- This Land is Your Land
-vendredi 6 janvier 2017
-21:13
-[Chorus]
 G                       D
 This land is your land, this land is my land 
         A                      D
@@ -12,7 +10,8 @@ From California to the New York Island
 From the Redwood Forest to the Gulf Stream waters
 A                              D 
 This land was made for you and me.
-[Verse]
+
+
 G                      D
 As I went walking that ribbon of highway
       A                    D
@@ -21,17 +20,9 @@ I saw above me that endless skyway
 I saw below me that golden valley
 A                              D 
 This land was made for you and me.
-[Chorus]
-G                       D
-This land is your land, this land is my land 
-        A                      D
-From California to the New York Island
-                G                         D 
-From the Redwood Forest to the Gulf Stream waters
-A                              D 
-This land was made for you and me.
 
-[Verse 2]
+[Chorus]
+
 G                         D
 I roamed and I rambled and I followed my footsteps
                 A                    D 
@@ -40,16 +31,9 @@ To the sparkling sands of her diamond deserts
 While all around me a voice was sounding
 A                              D 
 This land was made for you and me.
+
 [Chorus]
-G                       D
-This land is your land, this land is my land 
-        A                      D
-From California to the New York Island
-                G                         D 
-From the Redwood Forest to the Gulf Stream waters
-A                              D 
-This land was made for you and me.
-[Verse 3]
+
 G                  D
 When the sun came shining, and I was strolling
                     A                          D 
@@ -58,16 +42,9 @@ And the wheat fields waving and the dust clouds rolling
 A voice was chanting, As the fog was lifting,
 A                              D 
 This land was made for you and me.
+
 [Chorus]
-G                       D
-This land is your land, this land is my land 
-        A                      D
-From California to the New York Island
-                G                         D 
-From the Redwood Forest to the Gulf Stream waters
-A                              D 
-This land was made for you and me.
-[Verse 4]
+
 G                    D
 As I went walking I saw a sign there
                   A            D 
@@ -76,16 +53,9 @@ And on the sign it said "No Trespassing."
 But on the other side it didn't say nothing,
 A                              D 
 That side was made for you and me.
+
 [Chorus]
-G                       D
-This land is your land, this land is my land 
-        A                      D
-From California to the New York Island
-                G                         D 
-From the Redwood Forest to the Gulf Stream waters
-A                              D 
-This land was made for you and me.
-[Verse 5]
+
 G                        D
 In the squares of the city, In the shadow of a steeple;
              A                   D 
@@ -94,16 +64,9 @@ By the relief office, I'd seen my people.
 As they stood there hungry, I stood there asking,
 A                             D 
 Is this land made for you and me?
+
 [Chorus]
-G                       D
-This land is your land, this land is my land 
-        A                      D
-From California to the New York Island
-                G                         D 
-From the Redwood Forest to the Gulf Stream waters
-A                              D 
-This land was made for you and me.
-[Verse 6]
+
 G                    D
 Nobody living can ever stop me,
        A                    D 
@@ -112,20 +75,5 @@ As I go walking that freedom highway;
 Nobody living can make me turn back
 A                              D 
 This land was made for you and me.
-[Chorus]
-G                       D
-This land is your land, this land is my land 
-        A                      D
-From California to the New York Island
-                G                         D 
-From the Redwood Forest to the Gulf Stream waters
-A                              D 
-This land was made for you and me.
-G                       D
-This land is your land, this land is my land 
-        A                      D
-From California to the New York Island
-                G                         D 
-From the Redwood Forest to the Gulf Stream waters
-A                              D 
-This land was made for you and me.
+
+[Chorus] x 2
