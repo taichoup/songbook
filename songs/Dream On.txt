@@ -1,6 +1,7 @@
 Aerosmith - Dream On
 
 [Intro]    Fm  Cm/F  |  Fm6  Bbm6  |  Fm  C7sus  |  Fm
+
 [Verse 1] Fm            Fm7          Fm6            Bbm6    
          Ev'ry     time that I  look in the  mirror
          Fm            Fm7          Fm6            Bbm6       
@@ -9,16 +10,21 @@ Aerosmith - Dream On
                    The past is  gone
          Fm            Fm7          Fm6            Bbm6     
          It went   by like      dusk to      dawn
+
 [Bridge]  Dm7b5              C    Dm7b5               Bbm6
          Isn't that the way  ev'rybody's got their dues in life to pay?
+
 [Interlude]
          C  Dbmaj7  |  D7  C7 
+
 [Chorus]  Fm          Eb               Db                 Eb
          I know      nobody knows     where it comes and where it goes
          Fm          Eb               Db                 Eb
          I know it's ev'ryvody's sin; you got to lose to know how to win
+
 [Interlude]
          Fm  Fm7  |  Fm6  Bbm6  |  Fm  Fm9  |  Fm
+
 [Verse 2] Fm            Fm7          Fm6            Bbm6
          Half my       life's in    books' written pages  
          Fm            Fm7          Fm6            Bbm6
@@ -27,6 +33,7 @@ Aerosmith - Dream On
          You know it's true
          Fm            Fm7          Fm6            Bbm6
          All these     things       come back to   you.
+
 [Chorus]  Fm                    Eb                  
          Sing with me,             sing for the years. 
          Db                        Eb
@@ -35,8 +42,10 @@ Aerosmith - Dream On
          Sing with me if it's      just for today,
          Dm7b5                     Dbmaj7
          Maybe tomorrow the        good Lord will take you away
+
 [Instrumental]
          Bbm C Bbm C Bbm C Bbm C | Bbm C Bbm C Bbm C Bbm C 
+         
 [Outro]   Bb        C         Db            Eb                           Fm
          Dream on, dream on, dream on,     dream yourself a dream come  true.
          Bb        C         Db            Eb                           Fm

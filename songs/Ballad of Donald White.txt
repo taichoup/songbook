@@ -1,5 +1,4 @@
 Bob Dylan - Ballad of Donald White
-Artists: #Bob Dylan 
 
 C                 F
 My name is Donald White, you see,
@@ -98,4 +97,3 @@ Concerning all the boys that come
 Down a road like me,
 Are they enemies or victims
 Of your society?
-
