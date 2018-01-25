@@ -1,12 +1,14 @@
+Simon & Garfunkel - Bleecker Street
 
-Bleecker Street
-samedi 18 mars 2017
-17:21
 Paul Simon plays this song with a capo on the 9th fret and in G (up two half steps).  These are the chords
 for the song without a capo.
+
 [Intro]
+
 E B A E E
+
 [Verse]
+
 E             B          A          E
 Fog's rollin' in off the East River bank
 F#m F#m7 B B7        E           C#m
@@ -17,7 +19,9 @@ E      B          C#m
 Hides the shepherd from the sheep
 [Interlude]
 E B A E E
+
 [Verse]
+
 B            A        E
 Voices leaking from a sad cafe
 F#m F#m7 B B7      E      C#m  
@@ -28,7 +32,9 @@ E  B     C#m
 On Bleecker Street
 [Interlude]
 E B A E E
+
 [Verse]
+
 B    A            E     
 The poet reads his crooked rhyme
 F#m F#m7 B B7     E       C#m
@@ -39,7 +45,9 @@ E  B     C#m
 On Bleecker Street
 [Interlude]
 E B A E E
+
 [Verse]
+
 B          A       E
 I head a church bell softly chime
 F#m F#m7 B   B7    E  C#m

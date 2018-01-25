@@ -1,39 +1,44 @@
+The Beatles - Ticket To Ride
 
-Ticket To Ride
-Tuesday, January 9, 2018
-2:35 PM
-
-
-       Ticket To Ride
-        (Lennon/McCartney)
 [Intro](play twice on a 12-string... let all notes ring):
+
 e|-----0-----------0-----0-----------0--------|
 B|--------2-----0-----------2-----0-----------|
 G|--2--------2--------2--------2--------------|
 D|--------------------------------------------|
 A|--------------------------------------------|
 E|--------------------------------------------|
+
 [Verse]
+
 A               
 I think I'm gonna be sad   I think it's today, yeah
 Bm   E
 The girl that's driving me mad is going away
+
 [Chorus]
+
 F#m                   D    F#m                   Gmaj7
 She's got a ticket to ride  she's got a ticket to ride
 F#m                    E                   A
 She's got a ticket to ride  and she don't care.
+
 [Verse]
+
 A               
 She said that living with me  Is bringing her down, yeah
                                         Bm   E
 She would never be free     when I was around
+
 [Chorus]
+
 F#m                   D    F#m                   Gmaj7
 She's got a ticket to ride  she's got a ticket to ride
 F#m                    E                   A
 She's got a ticket to ride  and she don't care.
+
 [Middle]
+
 D
 I don't know why she's riding so high
 E
@@ -42,19 +47,25 @@ D
 Before she gets to saying goodbye
 E
 She ought to think twice   she ought to do right by me
+
 [Little solo]
+
 e|----------------------10------b(14)12--10--12----|
 B|--b(12)10--8-----/12------12---------------------|
 G|--------------9----------------------------------|
 D|-------------------------------------------------|
 A|-------------------------------------------------|
 E|-------------------------------------------------|
+
 [Verse]
+
 A               
 I think I'm gonna be sad   I think it's today, yeah
 Bm   E
 The girl that's driving me mad is going away, yeah
+
 [Chorus]
+
 F#m                   D    F#m                   Gmaj7
 She's got a ticket to ride  she's got a ticket to ride
 F#m                    E                   A
@@ -68,19 +79,25 @@ D
 Before she gets to saying goodbye
 E
 She ought to think twice   she ought to do right by me
+
 [Verse]
+
 A               
 She said that living with me  Is bringing her down, yeah
                                         Bm   E
 She would never be free     when I was around
+
 [Chorus]
+
 F#m                   D    F#m                   Gmaj7
 She's got a ticket to ride  she's got a ticket to ride
 F#m                    E                   A
 She's got a ticket to ride  and she don't care.
+
 [Ending]
+
                A
 My baby don't care...
 
-From <https://tabs.ultimate-guitar.com/tab/the_beatles/ticket_to_ride_chords_17442> 
+
 

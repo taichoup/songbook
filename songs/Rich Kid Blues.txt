@@ -1,18 +1,15 @@
+The Raconteurs - Rich Kid Blues
 
-Rich Kid Blues
-samedi 4 février 2017
-20:24
 Originally by Terry Reid, but their version is very similar
 
-
-RICH KID BLUES
-                      TERRY REID
 NOTE: VERSES are based on the chords D, Dsus4, and Dsus2.
 INTRO:  Dm  C  G   *Dsus2-h-D (Means to make a Dsus2 
                               chord and immediately
                               hammer on the high E string
                               to form a D chord.)
+
 VERSE:
+
 D      Dsus4        D       Dsus2   D   *Dsus2-h-D
 Havin' bad times, now I am paying dues
 D            Dsus4  Dsus2         D  *Dsus2-h-D
@@ -23,10 +20,14 @@ D            Dsus4         D   Dsus2   D
 That's why I think I got a rich kid's blues
 Dm               C            G          D
  That's why I think I got a rich kid's blues
+
 PRE-CHORUS:
+
 D string ---0-0-0-0-0-0-0-0-0-0-
 G D G D     G D G D
+
 CHORUS:
+
    G  D           A    D
 And I know what's going on
 G  D             G          D
@@ -35,7 +36,9 @@ I know that the way is too long
 And I know just exactly what's on your mind
 G             D             G    D
 But you'll be back and I'll lose them forever
+
 BREAK:
+
 C                   D         C             D
 Or was I wondering why, now, did I ask the name
 C               G           C                D
@@ -44,7 +47,9 @@ C              D        C             D
 Love is just a story, a story without words
 C                 G              C           D
 Words that always never seen and never even heard
+
 CHORUS:
+
 G       D    A           D
 And I know what's going on
 G       D             G          D
@@ -53,13 +58,17 @@ G       D          A            D
 And I know just exactly what's on your mind
 G             D             G    D
 But you'll be back and I'll lose them forever
+
 INSTRUMENTAL:
+
 G  D    A  D
 G  D    G  D
 G  D    A  D
 G  D    G  D
 C  D    C  D
+
 VERSE:
+
 Dsus2-h-D
 D      Dsus4      D Dsus2   D   
 Know my good times,  just angels
@@ -71,11 +80,15 @@ D            Dsus4         D   Dsus2   D
 That's why I think I got a rich kid's blues
 Dm               C            G          D
  That's why I think I got a rich kid's blues
+
 PRE-CHORUS:
+
 D string ---0-0-0-0-0-0-0-0-0-0-
 G  D    A  D
 G  D    G  D
+
 CHORUS:
+
 G  D        A           D
 I know-woh what's going on
    G  D             G               D
@@ -84,13 +97,15 @@ And I know that that the way is too long
 And I know that there's something on your mind
     G                D         G         D
 And I'll say to wave back and just prove it, oh yeah
+
 OUTRO: PLAY  G D A D over and over - FADE OUT
+
 Oh, oh oh yeah
 Oh, oh oh yeah
 Oh, oh oh yeah 
 Oh, oh oh yeah
 
-From <https://tabs.ultimate-guitar.com/t/terry_reid/rich_kid_blues_crd.htm> 
+
 
 
 
