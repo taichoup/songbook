@@ -1,8 +1,7 @@
+The Raconteurs - Old Enough
 
-Old Enough
-vendredi 6 janvier 2017
-14:50
 On each end of verse Brendan sings, you can play chords or Riff 1
+
 Riff 1:                  D
 E|-----------------------2---|
 B|-----------------------3---|
@@ -10,7 +9,9 @@ G|-----------------------2---|
 D|-3-2-------------------0---|
 A|------3p2h3----2p3h2-------|
 E|---------------------3-----|
+
 [Verse]
+
      D                 C2     G
 You look pretty in your fancy dress
   D         C2       G
@@ -59,7 +60,9 @@ Without having a visible scar?
 No one knows who you really are
             (F   F    C EM/D C   G      D)   D   C2     G  X2
 They can’t see  (or Riff 1)
+
 [Solo #1:]
+
 Play riff 2 & 3 -  2 times
 Riff 2
 e-------------------------------|
@@ -75,7 +78,9 @@ G-7-5--4-2-0---2-4-2-0----2-4-2-0--4--2-0---|
 D-------------------------------------------|
 A-------------------------------------------|
 E-------------------------------------------|
+
 [Chorus]
+
  D                  D
 What you gonna do (What you gonna do)
                   C     G   F
@@ -95,7 +100,9 @@ What you gonna do now
                     G//
 What you gonna do now
 (Yeah)       D      C2       G X4
+
 [Verse]
+
    F                      C
 The only way you’ll ever learn a thing
    F                        C           D    G
@@ -120,6 +127,3 @@ You’re not free
             D  C  G
 You’re not free
 D     C     G to end
-
-From <https://tabs.ultimate-guitar.com/t/the_raconteurs/old_enough_ver2_crd.htm> 
-
