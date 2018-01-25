@@ -1,9 +1,10 @@
+Francis Cabrel - La Corrida
 
-La Corrida
-Sunday, November 5, 2017
-3:20 PM
-La corrida - Francis Cabrel
+
+
 [Riff 1]
+
+
 Dm                       F
 E---1--1--3/-5--3-----3-----5--3-----1---------|
 B---3--3-----------6-----6-----------1---------|
@@ -12,7 +13,11 @@ D---0--0-----------------------------3---------|
 A------------------------------------3---------|
 E----------------------------------------------|
    1  &  2  &  3  &  4  &  1  &  2  &  3  &  4
+
+
 [Riff 2]
+
+
 C                        Bbsus2
 E---0--0--1/-3--1--0--------1------------------|
 B---1--1--------------------1------------------|
@@ -21,7 +26,9 @@ D---2--2--------------------2------------------|
 A---3--3--------------------1------------------|
 E----------------------------------------------|
    1  &  2  &  3  &  4  &  1  &  2  &  3  &  4
+
 [Refrain]
+
 Dm
 Depuis le temps que je patiente
 F
@@ -46,7 +53,11 @@ Ils ont refermé derrière moi
 Ils ont eu peur que je recule
 Je vais bien finir par l'avoir
 Cette danseuse ridicule…
+
+
 [Riff 1]
+
+
                        [Riff 2]
 Est-ce que ce monde est sérieux ? x2
 Andalousie je me souviens
@@ -93,8 +104,4 @@ Y mataremos otros
 Otras vidas, otros toros
 Y mataremos otros
 Venga, venga
-Venga, venga a bailar…
-
-From <https://tabs.ultimate-guitar.com/f/francis_cabrel/la_corrida_crd.htm> 
-
-
+Venga, venga a bailar

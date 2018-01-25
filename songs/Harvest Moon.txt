@@ -1,13 +1,11 @@
+Neil Young - Harvest Moon
 
-Harvest Moon
-samedi 18 mars 2017
-17:34
-                       Harvest Moon    Neil Young
 Drop-D tuning (Low E is tuned down to D).   
 Based on Harvest Moon unplugged version.
 
 
 [intro]  x4
+
   D       D6       Dmaj7
   1 + 2 + 3 + 4 +  1 + 2 + 3 + 4 +  
 e |----5---7-------|9-9---9---9-9---|
@@ -41,10 +39,14 @@ alternate voicings for the D chords (verse)
 
 A partir de maintenant : ignore D6s
 
+
 [Intro]
+
 | D D6 | Dmaj7 | D D6 | Dmaj7 |
 | D D6 | Dmaj7 | D D6 | Dmaj7 |
+
 [Verse 1]
+
 Em7 
 Come a little bit closer
                   | D D6 | Dmaj7 | D D6 | Dmaj7 |
@@ -61,7 +63,9 @@ G6
 We know where the music s playin
                          | D D6 | Dmaj7 | D D6 | Dmaj7 |
 Let s go out and feel the night.
+
 [Chorus]
+
 
 
 A7sus4                          A7
@@ -75,7 +79,9 @@ A7sus4                          A7
 
 | D D6 | Dmaj7 | D D6 | Dmaj7 |
 | D D6 | Dmaj7 | D D6 | Dmaj7 |
+
 [Verse 2]
+
 Em7 
 When we were strangers
                   | D D6 | Dmaj7 | D D6 | Dmaj7 |
@@ -92,7 +98,9 @@ G6
 I want to celebrate
                     | D D6 | Dmaj7 | D D6 | Dmaj7 |
 See it shinin in your eye.
+
 [Chorus]
+
 A7sus4                          A7
        Because I m still in love with you
                                  A7sus4
@@ -108,7 +116,9 @@ A7sus4                          A7
 | D D6 | Dmaj7 | D D6 | Dmaj7 |
 | G6 | % | % | % |
 | D D6 | Dmaj7 | D D6 | Dmaj7 |
+
 [Chorus]
+
 A7                             A7
        Because I m still in love with you
                                A7sus4
@@ -117,9 +127,11 @@ A7                             A7
        Because I m still in love with you
                         [ D ]
        On this harvest moon.
+
 [Outro]
+
 | D D6 | Dmaj7 | D D6 | Dmaj7 |
 | D D6 | Dmaj7 | D D6 | Dmaj7 | D
 
-From <https://tabs.ultimate-guitar.com/n/neil_young/harvest_moon_ver3_crd.htm> 
+
 

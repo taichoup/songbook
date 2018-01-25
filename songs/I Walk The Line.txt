@@ -1,8 +1,7 @@
+Johnny Cash - I Walk The Line
 
-I Walk The Line
-samedi 4 février 2017
-20:12
 [Intro]
+
 e|-----------------------------|------------------------|
 B|-----------------------------|------------------------|
 G|-----------------------------|------------------------|
@@ -14,10 +13,11 @@ B|--------------------------------|
 D|-------------1------------------|
 A|-2-2-------2-2-2-0--------2-----|
 E|-----0-2-0---------4-2-0-----0--|   
+
 (Either Johnny or his guitarist continues the two-note shuffle while the chords are):
 
-
 [Verse 1]
+
 B7 --> alternating bass              E
 I keep a close watch on this heart of mine
          B7                     E
@@ -33,7 +33,9 @@ G|----------|
 D|----------|                       
 A|--------0-|  A
 E|--0-2-4---|   
+
 [Verse 2]
+
 E7                    A 
 I find it very, very easy to be true
          E7                         A
@@ -49,7 +51,9 @@ G|----------|
 D|--------0-|  D
 A|--0-2-4---|   
 E|----------| 
+
 [Verse 3]
+
 A7                      D
 As sure as night is dark and day is light
           A7                      D
@@ -65,7 +69,9 @@ G|----------|
 D|--0-------|
 A|----4-2-0-|   A
 E|----------| 
+
 [Verse 4]
+
 E7                     A
 You've got a way to keep me on your side
            E7                        A
@@ -81,7 +87,9 @@ G|----------|
 D|----------| 
 A|-0--------|
 E|---4-2-0--|   E
+
 [Verse 4]
+
 B7                           E
 I keep a close watch on this heart of mine
          B7                     E
@@ -90,7 +98,9 @@ I keep my eyes wide open all the time.
 I keep the ends out for the tie that binds
               B7               E
 Because you're mine, I walk the line
+
 [Outro]
+
 E|-------------------|   
 B|-------------------|   
 G|-------------------|   
@@ -98,7 +108,3 @@ D|-------------------|
 A|-2---2----2---2----|
 E|---0----0---0------| 
 (fade)
-
-From <https://tabs.ultimate-guitar.com/j/johnny_cash/i_walk_the_line_ver3_crd.htm> 
-
-

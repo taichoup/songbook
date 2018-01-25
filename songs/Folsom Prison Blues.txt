@@ -1,7 +1,4 @@
-
-Folsom Prison Blues
-samedi 4 février 2017
-20:14
+Johnny Cash - Folsom Prison Blues
            
    [Intro & Outro]
 |--------------------|
@@ -10,6 +7,7 @@ samedi 4 février 2017
 |-----1-1------------|
 |-2-2-----2----------| 
 |-----------3-0------|
+
 E             
 I hear the train a-coming, it's rolling round the bend
                                                E7  
@@ -18,6 +16,7 @@ and I ain't seen the sunshine since I don't know when
 I'm stuck at Folsom Prison, and time keeps draggin' on
         B7                                    E
 But that train keeps a-rollin' on down to San Antone
+
 E
 When I was just a baby, my Mama told me 'Son,
                                           E7
@@ -26,7 +25,9 @@ always be a good boy; don't ever play with guns.'
 But I shot a man in Reno, just to watch him die
       B7                                           E
 when I hear that whistle blowin' I hang my head and cry
+
 [Guitar solo/interlude]
+
 E
 I bet there's rich folks eatin' in a fancy dining car
                                           E7
@@ -35,7 +36,9 @@ They're probably drinking coffee and smoking big cigars
 But I know I had it coming, I know I can't be free
       B7                                       E
 But those people keep a moving, and that's what tortures me
+
 [Guitar solo/interlude]
+
 E
 Well, if they freed me from this prison, if that railroad train was mine
                                           E7
@@ -44,9 +47,3 @@ I bet I'd move it on a little farther down the line
 Far from Folsom Prison, that's where I want to stay
       B7                                           E
 And I'd let that lonesome whistle blow my blues away
-
-From <https://tabs.ultimate-guitar.com/j/johnny_cash/folsom_prison_blues_ver4_crd.htm> 
-       
-           d
-           
-

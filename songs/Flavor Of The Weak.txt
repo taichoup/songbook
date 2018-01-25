@@ -1,9 +1,7 @@
-
-Flavor Of The Weak
-mercredi 3 janvier 2018
-11:57
+American Hi-Fi - Flavor Of The Weak
 
 (capo 1)
+
 G-320033
 D-xx0232
 Dsus2-xx0230
@@ -12,16 +10,22 @@ Asus4-x02230
 Em7-022030
 Em-022000
 Cadd9-x32033
+
 [Riff1]
+
 |--------------------------------------|
 |--------------------------------------|
 |--/4---2------------/4---2------------|
 |-----------5-----------------5---2----|
 |---------------5----------------------|
 |--------------------------------------|
+
 [Intro]
+
 Em7  Cadd9 (x4)
+
 [Verse 1]
+
 G               Dsus2               Em7
 She paint's her nails and she don't know,
             Cadd9
@@ -46,7 +50,9 @@ I wish that I could make her see,
 Asus4           Cadd9             [Riff1] G       Dsus2
 she's just the flavor of the week.
 (Em7     Cadd9)
+
 [Verse 2]
+
 It's friday night, and she's all alone,
 he's a million miles away,
 she's dressed to kill, the TV's on,
@@ -55,7 +61,9 @@ he's connected to the sound,
 and he's got pictures on the wall,
 of all the girls he's loved before,
 and she knows all his favorite songs.
+
 [Chorus]
+
 Her boyfriend, he don't know,
 anything, about her he's,
 too stoned, nintendo,
@@ -76,10 +84,3 @@ I wish that I could make her see,
 she's just the flavor of the week.
 Yeah, she's the flavor of the week.
 She makes me weak.
-************************************
-| /  Slide up
-************************************
-
-From <https://tabs.ultimate-guitar.com/tab/american_hi-fi/flavor_of_the_weak_chords_453295> 
-
-
