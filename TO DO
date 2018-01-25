@@ -2,8 +2,14 @@ TO DO
 
 - disclaimer / license (I don't own any of the material)
 - script to generate a kindle-compatible file ? with a TOC ?
+    - for now I have a python script that kind of (sometimes) transforms my text files into html files with a title. THis can later by used by libs or calibre to generate an ebook
 
 
 https://kdp.amazon.com/en_US/help/topic/G200645680
 
 https://kdp.amazon.com/en_US/help/topic/G201605710
+
+http://howtowriteshop.loridevoti.com/2012/09/step-by-step-guide-to-building-an-ebook-with-calibre/
+
+
+Py lib : https://github.com/aerkalov/ebooklib 
