@@ -1,4 +1,4 @@
-_filename = "raw_2018_01_24.txt"
+ex_filename = "raw_2018_01_24.txt"
 
 with open(_filename, "r") as fo:
     start = 0
