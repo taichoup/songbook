@@ -13,8 +13,6 @@ soup = BeautifulSoup(soup_string, "lxml")
 body = soup.body
 toc = soup.ul
 
-print toc
-
 counter = 0 # this is used to set id attributes for song titles.
 
 for filename in os.listdir(input_directory):
