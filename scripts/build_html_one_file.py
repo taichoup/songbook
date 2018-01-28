@@ -25,7 +25,7 @@ for filename in os.listdir(input_directory):
     print "Treating %s" % filename
 
     # create HTML tags for the song...
-    title = soup.new_tag('h2')
+    title = soup.new_tag('h3')
     title['id'] = "song_%d" % counter
     content = soup.new_tag('pre')
     page_break = soup.new_tag('div')
@@ -47,7 +47,7 @@ for filename in os.listdir(input_directory):
             list_of_songs[chapter_title] = title['id'] # add to the TOC while we're at it
             content.insert(1, chapter_content)
 
-            # toc.append("<li><a href='%s'>%s</a></li>" % (title['id'], chapter_title))
+            #create entry in table of contents for the current song
             toc_entry = soup.new_tag("li")
             toc_entry_link = soup.new_tag("a", href="#%s" % title['id'])
             toc.append(toc_entry)
