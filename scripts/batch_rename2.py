@@ -16,12 +16,17 @@ for filename in os.listdir(directory):
             try:
                 # os.rename(full_path, "%s.txt" % songname)
                 equiv[filename] = "%s.txt" % songname
+
             except Exception as e:
                 print e
                 continue
 
-
-        os.rename(filename, equiv[filename])
+        try:
+            if full_path != os.path.join(directory, equiv[filename]):
+                os.rename(full_path, os.path.join(directory, equiv[filename]))
+        except Exception as e:
+            print e
+            continue
 
     else:
         continue
