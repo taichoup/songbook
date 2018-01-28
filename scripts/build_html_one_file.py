@@ -17,9 +17,11 @@ counter = 0 # this is used to set id attributes for song titles.
 
 for filename in os.listdir(input_directory):
 
+    filename = filename.decode("windows-1252")
+    
     counter += 1
 
-    print "Treating %s" % filename
+    print "Treating %s" % filename.encode("utf-8")
 
     # create HTML tags for the song...
     title = soup.new_tag('h3')
