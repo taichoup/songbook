@@ -16,7 +16,6 @@ toc = soup.ul
 print toc
 
 counter = 0 # this is used to set id attributes for song titles.
-list_of_songs = {} # this is used to populate the TOC at the end of the loop
 
 for filename in os.listdir(input_directory):
 
@@ -44,7 +43,6 @@ for filename in os.listdir(input_directory):
             chapter_title = infile.readline().strip()
             chapter_content = infile.read()
             title.insert(0, chapter_title)
-            list_of_songs[chapter_title] = title['id'] # add to the TOC while we're at it
             content.insert(1, chapter_content)
 
             #create entry in table of contents for the current song
@@ -63,5 +61,3 @@ for filename in os.listdir(input_directory):
     except Exception as e:
         print e
         continue
-
-print list_of_songs
