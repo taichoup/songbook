@@ -1,10 +1,4 @@
-
-Jesse James (in C)
-Monday, February 2, 2015
-12:42 AM
-
-
-Jesse James (Traditional)
+Jesse James (Traditional) - in C
 
    C                   F           C    
 Jesse   James   was a   lad,    he  killed  many    a   man,    He
