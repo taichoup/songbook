@@ -1,6 +1,6 @@
 28 JAN UPDATE
 
-scipt now generates a unique html file and converts it to a .mobi file using kindlegen. Some minor encoding issues still. (works fine in the browser but kindlegen mangles it. Only lead I found online was to use HTML entities ("&" characters)). That should be accepted by kindlegen.
+scipt now generates a unique html file and converts it to a .mobi file using kindlegen. I think I have covered all the encoding issues.
 
 25 JAN UPDATE
 
