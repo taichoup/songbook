@@ -60,7 +60,7 @@ for filename in os.listdir(input_directory):
 timestr = time.strftime("%Y%m%d-%H%M%S")
 outfile_name = "export_%s.html" % timestr
 outfile = codecs.open('../songs_html_unique/%s' % outfile_name, 'w+', encoding="utf-8")
-outfile.write(soup.prettify())
+outfile.write(soup.prettify(formatter='html'))
 outfile.close()
 
 if kindlegen_dir:
