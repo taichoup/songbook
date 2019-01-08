@@ -76,3 +76,27 @@ Take the king’s shilling and you’re off to war
 Die in war, die in war
        C           G
 Die in war, die in war
+
+
+
+Version in D
+
+ 
+ D
+(Oh my) love  has left me with bairnes twa
+                 G                  D
+^ And that's the last of him I ever saw
+               G                   Bm
+He ^joined the army and marched to war
+            Em7
+He took the shilling,
+             G                A      D
+He took the shilling and he's off to war
+
+Chorus:
+D      G        D                     G
+(Come) laddies, come, hear the cannon roar
+                Bm                  A      D
+Take the king’s shilling and you’re off to war
+
+etc.
