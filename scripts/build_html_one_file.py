@@ -1,10 +1,10 @@
 import os, codecs, subprocess, time
 from bs4 import BeautifulSoup
 
-input_directory = "E:/Docs/GitHub/songbook/songs"
-output_directory = "E:/Docs/GitHub/songbook/songs_html_unique"
+input_directory = "C:/repos/songbook/songs"
+output_directory = "C:/repos/songbook/songs_html_unique"
 ebook_title = "Manu's Songbook"
-kindlegen_dir = "C:\Users\pc\Downloads\kindlegen_win32_v2_9"
+kindlegen_dir = "C:\Users\mdalle\Downloads\kindlegen_win32_v2_9"
 
 soup_string = '<!doctype html><html lang="en"><head><meta charset="utf-8" /> <title>%s</title><link rel="stylesheet" href="style.css"  type="text/css" /></head><body><div id="toc"><h2>Manu&apos;s Songbook<br /></h2><ul></ul></div><div class="pagebreak"></div></body>' % ebook_title
 
