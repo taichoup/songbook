@@ -1,8 +1,8 @@
 The Beatles - Something
 
-Amaj7
+Amaj7 (x-0-2-1-2-0) 
 
-F#M7
+F#M7 (x-x-4-3-2-1)
 
 [Verse 1]
 
