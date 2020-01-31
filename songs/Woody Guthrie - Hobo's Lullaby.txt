@@ -2,7 +2,7 @@ Woody Guthrie - Hobo's Lullaby
 
 Woody Guthrie (Goebel Reeves) to the tune of Just Before The Battle Mother by George F. Root 1862
 
-(This is Arlo Guthrie and Pete Seeger's version)
+(This is Arlo Guthrie and Pete Seeger's version. See below for Billy Bragg's version (easier to play arpeggio to))
 
 Capo I *
 
@@ -58,3 +58,12 @@ That's a hobo's lullaby
 Capo IV
 
 G = EC = AD = B
+
+___________
+
+Billy Bragg's version:
+
+G Am7
+D7 D G
+G G7 Am7
+D7 D G C/G
