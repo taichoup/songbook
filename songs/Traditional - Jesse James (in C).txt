@@ -1,4 +1,4 @@
-Jesse James (Traditional) - in C
+Traditional - Jesse James (in C)
 
    C                   F           C    
 Jesse   James   was a   lad,    he  killed  many    a   man,    He
