@@ -3,59 +3,34 @@ Neil Young - Tell Me Why
 [Verse]
 
  C                          
-
   Sailing heartships through
-
  D              
-
  Broken harbours
-
  Am7       (C) 
-
  Out on the waves
-
         G     (C)(G)     C
-
  In the night  
-
 C
-
  Still the searcher must
-
 D
-
  Ride the dark horse
-
 Am
-
  Racing along
-
 G
-
  In his stride
 
  [Chorus]
 
  D       Am7  C  G C G D
-
  Tell me why           
-
          Am7   C   G
-
  Tell me why      
-
  
-
        Bm                                 C   
-
  Is it hard to make arrangements with yourself
-
              D               C  
-
  When you're old enough to repay
-
           Bm7             Em  
-
  But young enough to sell
 
  C D Am7 (C) G
@@ -63,91 +38,52 @@ G
 [Verse]
 
 C
-
  Tell me lies later
-
 D
-
  Come and see me
-
 Am                   G
-
  I'll be around for a while
-
 C
-
  I am lonely but
-
 D
-
  You can free me
-
 Am                       G
-
  All in the way that you smile
 
 [Chorus]
 
  D       Am7  C  G C G D
-
  Tell me why           
-
          Am7   C   G
-
  Tell me why      
-
  
-
        Bm                                 C   
-
  Is it hard to make arrangements with yourself
-
              D               C  
-
  When you're old enough to repay
-
           Bm7             Em  
-
  But young enough to sell
 
  C D Am7 (C) G
-
  C D Am7 (C) G
-
        
-
  [Chorus]
 
  D       Am7  C  G C G D
-
  Tell me why           
-
          Am7   C   G
-
  Tell me why      
-
  
-
        Bm                                 C   
-
  Is it hard to make arrangements with yourself
-
              D               C  
-
  When you're old enough to repay
-
           Bm7             Em  
-
  But young enough to sell
 
  C D Am7 (C) G   (to fade)
-
       
-
  notes:
-
            
-
  The Bm7 xx4232 is suspect, try a straight D (works better
-
  than A GM7)
