@@ -12,7 +12,7 @@ E __ A E G D
 E __ A E B E
 
 G D A E G D
-E A E B E
+E __ A E B E
 
 
 E                                                 A
@@ -39,7 +39,7 @@ A __ D A C G
 A __ D A E A
 
 C G D A C G
-A D A E A 
+A __ D A E A 
 
 
 " ha ha ha! Aaaah, three done! Seven to go :D That's the truth. That's the truth what they say about whiskey, it improves with age. 
@@ -64,7 +64,7 @@ A __ D A C G
 A __ D A E A
 
 C G D A C G
-A D A E A 
+A __ D A E A 
 
 laughs
 In case your're wondering what that bloody noise is
