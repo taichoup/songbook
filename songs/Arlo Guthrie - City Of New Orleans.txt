@@ -1,16 +1,13 @@
 Arlo Guthrie - City Of New Orleans
 
+(voir plus bas pour une version plus facile à jouer)
+
 
 [Intro]
 
-
   G          G         
 
-
-
-
 [Verse]
-
 
 G             D            G           
 Riding on the City of New Orleans
@@ -30,8 +27,6 @@ Passing trains that have no name, freight yards of old black men
 And graveyards of rusted automobiles.
 
 
-
-
 [Chorus]
 
 
@@ -45,43 +40,31 @@ I'm the train they call the City of New Orleans
 I'll be gone five hundred miles when the day is done.
 
 
-
-
 [Verse]
-
 
 Dealing card games with the old men in the club car
 Penny a point ain't noone keeping score
 Pass the paper bag but hold the bottle
 Feel the wheels rumbling 'neath the floor
-  And the sons of Pullman porters and the sons of engineers
-  Ride their father's magic carpets made of steel
-  Mother with her babes asleep rocking to the gentle beat
-  And the rhythm of the rails is all they feel.
-
-
-
+And the sons of Pullman porters and the sons of engineers
+Ride their father's magic carpets made of steel
+Mother with her babes asleep rocking to the gentle beat
+And the rhythm of the rails is all they feel.
 
 [Chorus]
 
-
 [Verse]
-
 
 Nightime on the City of New Orleans
 Changing cars in Memphis Tennessee
 Half way home we'll be there by morning
 through the Mississippi darkness rolling down to the sea.
-  But all the towns and people seem to fade into a dark dream
-  And the steel rail still ain't heard the news
-  The conductor sings his songs again, the passagers will please refrain
-  This train got the disappearing railroad blues.
-
-
-
+But all the towns and people seem to fade into a dark dream
+And the steel rail still ain't heard the news
+The conductor sings his songs again, the passagers will please refrain
+This train got the disappearing railroad blues.
 
 [Chorus]
-
 
 Good night America, How are you?
 Say, don't you know me, I'm your native son.
@@ -89,16 +72,66 @@ I'm the train they call the City of New Orleans
 I'll be gone five hundred miles when the day is done.
 
 
+=========================================================
 
 
-G     3 2 0 0 0 3    (or  3 2 0 0 3 3 or 3 5 5 4 3 3 )
-D     x x 0 2 3 2    (or  x 5 4 2 3 2)
-Em    0 2 2 0 0 0
-C     x 3 2 0 1 0    (or  x 3 5 5 5 3)
-Bm    x 2 4 4 3 2
-A     x 0 2 2 2 0
-D7    x x 0 2 1 2    (or  x 5 4 5 3 x)
-D9    x x 0 2 1 0
-Em7   0 2 0 0 0 0    (or  0 2 2 0 3 0)
-A7    x 0 2 0 2 0
-Bb    x 1 3 3 3 1
+Version + facile
+
+(Capo 0 et Capo III marchent assez bien dans ma tessiture, Capo VII pour l'original)
+
+C             G            C           
+Riding on the City of New Orleans
+Am               F               C                 
+Illinois Central Monday morning rail
+C                G                 C               
+Fifteen cars and fifteen restless riders
+       Am          G                     C            
+Three conductors and twenty-five sacks of mail.
+
+   Am                                  Em                             
+All along the south bound odyssey, the train pulls out of Kankakee
+G                                  D                
+Rolls along past houses farms and fields
+Am                                 Em                               
+Passing trains that have no name, freight yards of old black men
+    G             G7             C                  
+And graveyards of rusted automobiles.
+
+
+F             G7           C                     
+Good morning America, how are you?
+     Am                F                C      G7 G9
+Say, don't you know me, I'm your native son.
+       C                    G                Am  Am7 D7  
+I'm the train they call the City of New Orleans
+       Eb        F       G                       G9   C            
+I'll be gone five hundred miles when the day is done.
+
+Dealing card games with the old men in the club car
+Penny a point ain't noone keeping score
+Pass the paper bag but hold the bottle
+Feel the wheels rumbling 'neath the floor
+And the sons of Pullman porters and the sons of engineers
+Ride their father's magic carpets made of steel
+Mother with her babes asleep rocking to the gentle beat
+And the rhythm of the rails is all they feel.
+
+[Chorus]
+
+Nightime on the City of New Orleans
+Changing cars in Memphis Tennessee
+Half way home we'll be there by morning
+through the Mississippi darkness rolling down to the sea.
+But all the towns and people seem to fade into a dark dream
+And the steel rail still ain't heard the news
+The conductor sings his songs again, the passagers will please refrain
+This train got the disappearing railroad blues.
+
+[Chorus]
+
+Good night America, How are you?
+Say, don't you know me, I'm your native son.
+I'm the train they call the City of New Orleans
+I'll be gone five hundred miles when the day is done.
+
+
